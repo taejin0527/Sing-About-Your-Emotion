@@ -354,4 +354,4 @@ Docker와 Jenkins를 이용해 CI/CD 구축하였습니다:
 
 ## 📜 License
 
-This software is licensed under the [MIT](.docs/LICENSE) © [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp).
+This software is licensed under the [MIT](./docs/LICENSE) © [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp).
